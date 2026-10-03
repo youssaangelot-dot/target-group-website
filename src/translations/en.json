@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "theGroup": "The Group",
+    "ourBusinesses": "Our Businesses",
+    "ecosystem": "Ecosystem",
+    "globalPresence": "Global Presence",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "OWN · BUILD · CONNECT",
+    "subtitle": "Target Group is a diversified conglomerate based in Yaoundé, Cameroon, with global ambitions.",
+    "btnLearnMore": "Learn More",
+    "btnContactUs": "Contact Us"
+  },
+  "ownBuildConnect": {
+    "title": "Our Strategic Identity",
+    "own": {
+      "title": "OWN",
+      "description": "Own and operate businesses within the Group."
+    },
+    "build": {
+      "title": "BUILD",
+      "description": "Identify needs, opportunities and create new businesses, products or services."
+    },
+    "connect": {
+      "title": "CONNECT",
+      "description": "Connect clients, Group businesses and external partners (business dev, referrals, partnerships)."
+    }
+  },
+  "businesses": {
+    "title": "Our Businesses",
+    "translateed": {
+      "name": "Translateed",
+      "tagline": "Professional translation and language services.",
+      "description": "Translateed offers professional translation, interpretation, localization, and language training services to businesses and individuals seeking to bridge linguistic and cultural gaps."
+    },
+    "digeetal": {
+      "name": "Digeetal",
+      "tagline": "Digital services: websites, e-commerce, web applications, automation, AI, SaaS and related digital solutions.",
+      "description": "Digeetal provides end-to-end digital transformation services, from conceptualization to deployment, helping businesses leverage technology for growth and efficiency."
+    },
+    "skeels": {
+      "name": "Skeels",
+      "tagline": "Professional academy and training.",
+      "description": "Skeels is a professional academy offering vocational training, certification programs, and skill development courses to enhance employability and entrepreneurship."
+    },
+    "cleen": {
+      "name": "Cleen",
+      "tagline": "Pressing and laundry services.",
+      "description": "Cleen delivers high-quality pressing, laundry, and dry-cleaning services for individuals and corporate clients, ensuring convenience and excellence."
+    },
+    "markeet": {
+      "name": "Markeet",
+      "tagline": "General trade, importation and distribution.",
+      "description": "Markeet engages in the import, export, distribution, and wholesale of a wide range of goods, connecting producers with markets across the globe."
+    }
+  },
+  "ecosystem": {
+    "title": "The Target Group Ecosystem",
+    "subtitle": "Where our businesses create value through synergy",
+    "description": "Through the CONNECT function, Target Group facilitates collaboration between its businesses, clients, and partners, creating a virtuous cycle of growth and innovation.",
+    "synergy": "Synergy",
+    "partnerships": "Partnerships",
+    "businessDevelopment": "Business Development"
+  },
+  "globalPresence": {
+    "title": "Global Presence",
+    "subtitle": "Rooted in Yaoundé, reaching the world",
+    "description": "While headquartered in Yaoundé, Cameroon, Target Group operates with a global mindset, serving international clients and exploring opportunities worldwide.",
+    "headquarters": "Headquarters",
+    "internationalReach": "International Reach",
+    "investorCredibility": "Investor & Partner Credibility"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for inquiries, partnerships, or business opportunities",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Your message has been sent successfully!",
+      "error": "There was an error sending your message. Please try again."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

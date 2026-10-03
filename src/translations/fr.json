@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "theGroup": "Le Groupe",
+    "ourBusinesses": "Nos Activités",
+    "ecosystem": "Écosystème",
+    "globalPresence": "Présence Mondiale",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "POSSEDER · CRÉER · CONNECTER",
+    "subtitle": "Target Group est un conglomérat diversifié basé à Yaoundé, au Cameroun, avec des ambitions mondiales.",
+    "btnLearnMore": "En Savoir Plus",
+    "btnContactUs": "Nous Contacter"
+  },
+  "ownBuildConnect": {
+    "title": "Notre Identité Stratégique",
+    "own": {
+      "title": "POSSEDER",
+      "description": "Posséder et exploiter des entreprises au sein du Groupe."
+    },
+    "build": {
+      "title": "CRÉER",
+      "description": "Identifier les besoins, les opportunités et créer de nouvelles entreprises, produits ou services."
+    },
+    "connect": {
+      "title": "CONNECTER",
+      "description": "Connecter les clients, les entreprises du Groupe et les partenaires externes (développement commercial, références, partenariats)."
+    }
+  },
+  "businesses": {
+    "title": "Nos Activités",
+    "translateed": {
+      "name": "Translateed",
+      "tagline": "Services professionnels de traduction et de langues.",
+      "description": "Translateed propose des services professionnels de traduction, d'interprétation, de localisation et de formation linguistique aux entreprises et aux particuliers souhaitant combler les écarts linguistiques et culturels."
+    },
+    "digeetal": {
+      "name": "Digeetal",
+      "tagline": "Services numériques : sites web, e-commerce, applications web, automatisation, IA, SaaS et solutions numériques associées.",
+      "description": "Digeetal fournit des services de transformation numérique de bout en bout, de la conceptualisation au déploiement, aidant les entreprises à tirer parti de la technologie pour la croissance et l'efficacité."
+    },
+    "skeels": {
+      "name": "Skeels",
+      "tagline": "Académie professionnelle et formation.",
+      "description": "Skeels est une académie professionnelle offrant une formation professionnelle, des programmes de certification et des cours de développement des compétences pour renforcer l'employabilité et l'entrepreneuriat."
+    },
+    "cleen": {
+      "name": "Cleen",
+      "tagline": "Services de pressing et de blanchisserie.",
+      "description": "Cleen fournit des services de pressing, de blanchisserie et de nettoyage à sec de haute qualité pour les particuliers et les clients entreprises, assurant commodité et excellence."
+    },
+    "markeet": {
+      "name": "Markeet",
+      "tagline": "Commerce général, importation et distribution.",
+      "description": "Markeet s'engage dans l'import, l'export, la distribution et la vente en gros d'une large gamme de marchandises, reliant les producteurs aux marchés du monde entier."
+    }
+  },
+  "ecosystem": {
+    "title": "L'Écosystème du Groupe Target",
+    "subtitle": "Où nos entreprises créent de la valeur par la synergie",
+    "description": "Grâce à la fonction CONNECTER, Target Group facilite la collaboration entre ses entreprises, ses clients et ses partenaires, créant un cercle vertueux de croissance et d'innovation.",
+    "synergy": "Synergie",
+    "partnerships": "Partenariats",
+    "businessDevelopment": "Développement Commercial"
+  },
+  "globalPresence": {
+    "title": "Présence Mondiale",
+    "subtitle": "Ancrée à Yaoundé, tournée vers le monde",
+    "description": "Bien que basée à Yaoundé, au Cameroun, Target Group opère avec une mentalité mondiale, desservant des clients internationaux et explorant des opportunités dans le monde entier.",
+    "headquarters": "Siège Social",
+    "internationalReach": "Portée Internationale",
+    "investorCredibility": "Crédibilité Auprès des Investisseurs & Partenaires"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Prenez contact pour des demandes, des partenariats ou des opportunités commerciales",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "subject": "Objet",
+      "message": "Votre Message",
+      "submit": "Envoyer le Message",
+      "success": "Votre message a été envoyé avec succès !",
+      "error": "Une erreur est survenue lors de l'envoi de votre message. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions Générales"
+  }
+}
